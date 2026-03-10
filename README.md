@@ -4,9 +4,10 @@
 
 # React + Vite<img width="1845" height="849" alt="Ekran görüntüsü 2026-03-10 234337" src="https://github.com/user-attachments/assets/e92b3761-0aab-4b7f-8237-9f3d8b1459e2" />
 
+.<img width="1705" height="747" alt="Ekran görüntüsü 2026-03-10 234349" src="https://github.com/user-attachments/assets/2ecdc9b0-bc4c-4981-b3a1-7570fdaad411" />
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.<img width="1705" height="747" alt="Ekran görüntüsü 2026-03-10 234349" src="https://github.com/user-attachments/assets/2ecdc9b0-bc4c-4981-b3a1-7570fdaad411" />
 
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules
 
 Currently, two official plugins are available:
 
