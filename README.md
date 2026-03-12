@@ -1,28 +1,61 @@
-# 🛡️ VaultCore Ultimate
+# 🛡️ VaultCore Ultimate: Advanced Crypto Wallet Manager
 
+**VaultCore** is a high-performance, aesthetically-driven crypto wallet management simulation. It merges blockchain security principles with a premium **Glassmorphism** UI to visualize the cryptographic wallet derivation process.
 
+---
 
+## ✨ Preview
 
+![Main Dashboard](https://github.com/user-attachments/assets/e92b3761-0aab-4b7f-8237-9f3d8b1459e2)
+*The high-fidelity dashboard featuring real-time telemetry and secure vault controls.*
 
-# React + Vite<img width="1845" height="849" alt="Ekran görüntüsü 2026-03-10 234337" src="https://github.com/user-attachments/assets/e92b3761-0aab-4b7f-8237-9f3d8b1459e2" />
+---
 
+## 🚀 Key Features
 
+* **BIP39 Mnemonic Generation:** Securely generates 12-word recovery phrases.
+* **Live Terminal Simulation:** Real-time logging of entropy, hashing (Keccak-256), and encryption steps.
+* **Modern UI/UX:** Built with Glassmorphism effects, neon accents, and optimized Dark Mode.
+* **Deterministic Derivation:** Realistic Ethereum wallet derivation using `ethers.js`.
+* **Secure Session Management:** Master password-based vault locking simulation.
 
+---
 
-.<img width="1705" height="747" alt="Ekran görüntüsü 2026-03-10 234349" src="https://github.com/user-attachments/assets/2ecdc9b0-bc4c-4981-b3a1-7570fdaad411" />
+## 🛠️ Technical Stack
 
+* **Frontend:** React.js + Vite
+* **Blockchain Integration:** Ethers.js & BIP39
+* **Styling:** Modern CSS (Glassmorphism & Gradients)
+* **Icons:** Lucide-React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules
+---
 
-Currently, two official plugins are available:
+## 📸 Technical Visualization
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Terminal View](https://github.com/user-attachments/assets/2ecdc9b0-bc4c-4981-b3a1-7570fdaad411)
+*Real-time visualization of the cryptographic lifecycle.*
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🏁 Quick Start
 
-## Expanding the ESLint configuration
+1.  **Clone the repo:**
+    ```bash
+    git clone [https://github.com/codcreater1/vault-core.git](https://github.com/codcreater1/vault-core.git)
+    ```
+2.  **Install dependencies:**
+    ```bash
+    npm install
+    ```
+3.  **Run the project:**
+    ```bash
+    npm run dev
+    ```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 👨‍💻 Developed By
+
+**Murat Can Nergiz**
+* LinkedIn: [Murat Can Nergiz](https://www.linkedin.com/in/murat-can-nergiz-612471317/)
+* GitHub: [@codcreater1](https://github.com/codcreater1)
